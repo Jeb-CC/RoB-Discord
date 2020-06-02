@@ -1,3 +1,9 @@
 To invite this bot to your server: https://discord.com/api/oauth2/authorize?client_id=715337376238665854&permissions=116736&scope=bot
 
 To create your own version, you'll need to create a Bot in Discord Applications and provide a token file.
+
+Install following modules:
+
+- Install npm Discord.js
+- Install npm Google API
+https://developers.google.com/sheets/api/quickstart/nodejs
